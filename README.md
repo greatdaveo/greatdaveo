@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello there; welcome 👋🏾
 
-<!--
-**greatdaveo/greatdaveo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm an intermidiate Frontend Engineer and a blockchain ethusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a quick summary about me:
+
+😊 Pronouns: He/him
+💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
+🌱 I’m currently learning Bootstrap, JavaScript, Reactjs, Nextjs, and Python.
+😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
+📫 You can view my resume and contact me by emailing olowomeyedavid242@gmail.com
