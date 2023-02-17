@@ -15,5 +15,7 @@ I'm an intermediate Software Engineer at [AltSchool Africa](https://altschoolafr
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=greatdaveo&show_icons=true&include_all_commits=true&hide_border=true" alt="David's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatdaveo&langs_count=8&layout=compact&hide_border=true" alt="David's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=greatdaveo&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" alt="David's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatdaveo&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="David's GitHub stats" /> |
 | ------------- | ------------- |
+
+| [![GitHub Streak](https://streak-stats.demolab.com?user=greatdaveo&theme=tokyonight)](https://git.io/streak-stats) |
