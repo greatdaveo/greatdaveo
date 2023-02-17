@@ -8,23 +8,15 @@ I'm an intermediate Software Engineer at [AltSchool Africa](https://altschoolafr
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs.
+- 🌱 I’m currently learning JavaScript, React JS, Vue JS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You contact me by emailing olowomeyedavid242@gmail.com
 
---- 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greatdaveo&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="David's GitHub stats" /> |
+---
+## GitHub Stats
 
-| ------------- | ------------- |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greatdaveo&layout=compact&theme=dark)](https://github.com/greatdaveo/github-readme-stats)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=greatdaveo&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="David's GitHub stats" /> |
-
-| ------------- | ------------- |
-
-| [![GitHub Streak](https://streak-stats.demolab.com?user=greatdaveo&theme=tokyonight)](https://git.io/streak-stats) |
-
-| ------------- | ------------- |
-
-
-
+| [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatdaveo&show_icons=true&theme=tokyonight)](https://github.com/greatdaveo/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=greatdaveo&theme=tokyonight)](https://git.io/streak-stats) |
+| :--- | ---: |
