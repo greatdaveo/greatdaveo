@@ -11,7 +11,7 @@ I'm an intermediate Software Engineer at [AltSchool Africa](https://altschoolafr
 - 🌱 I’m currently learning JavaScript, React JS, Vue JS and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You contact me by emailing olowomeyedavid242@gmail.com
+- 📫 You can contact me by emailing olowomeyedavid242@gmail.com
 
 ---
 ## GitHub Stats
