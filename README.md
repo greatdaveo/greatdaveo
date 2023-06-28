@@ -8,8 +8,8 @@ I'm an intermediate Software Engineer at [AltSchool Africa](https://altschoolafr
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, React JS, Vue JS and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 🌱 I’m currently learning JavaScript, React JS, Vue JS, and Python.
+- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing olowomeyedavid242@gmail.com
 
@@ -20,3 +20,5 @@ I'm an intermediate Software Engineer at [AltSchool Africa](https://altschoolafr
 
 | [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatdaveo&show_icons=true&theme=tokyonight)](https://github.com/greatdaveo/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=greatdaveo&theme=tokyonight)](https://git.io/streak-stats) |
 | :--- | ---: |
+
+[![David's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=greatdaveo)](https://github.com/greatdaveo/github-readme-stats)
