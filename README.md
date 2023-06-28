@@ -21,4 +21,4 @@ I'm an intermediate Software Engineer at [AltSchool Africa](https://altschoolafr
 | [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatdaveo&show_icons=true&theme=tokyonight)](https://github.com/greatdaveo/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=greatdaveo&theme=tokyonight)](https://git.io/streak-stats) |
 | :--- | ---: |
 
-[![David's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olowomeyedavid242@gmail.com)](https://github.com/anuraghazra/github-readme-stats)
+[![David's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=greatdaveo)](https://github.com/greatdaveo/github-readme-stats)
