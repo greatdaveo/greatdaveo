@@ -9,7 +9,7 @@
 - ❤️ Passionate about problem-solving through code.
 - 🔭 Elevating my problem-solving skills to a new level.
 - 👀 Open to volunteering roles and contributing to open source.
-- ⚡ Fun fact: When not coding, you'll find me battling with ML & AI.
+- ⚡ Fun fact: When I'm not coding, I'm exploring and mastering new technologies.
 
 ---
 ## GitHub Stats
