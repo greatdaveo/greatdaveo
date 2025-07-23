@@ -10,8 +10,6 @@
 - 👀 Open to volunteering roles and contributing to open source.
 - 🌱 Currently diving into AI/ML techniques and exploring cloud infrastructure.
 - ⚡ Fun fact: When I'm not coding, I'm probably playing games or watching a movie
-- 📄 [View my CV](https://docs.google.com/document/d/1kEoqhQlhnuKRR_bnNJWoJY1VDSnzRQbGN2DehiW1ZOI/export?format=pdf&attachment=false)
-
 
 ---
 ## GitHub Stats
