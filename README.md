@@ -1,9 +1,9 @@
 # Hello! I am David Olowomeye 👋🏾
 
-- ❤️ Passionate about problem-solving through code.
-- 🔭 Elevating my problem-solving skills to a new level.
-- 💻 Languages: Go, Python, JavaScript and TypeScript
-- 🌱 Currently diving into AI/ML techniques and exploring cloud infrastructure.
+- 💡 Backend & AI Engineer passionate about building scalable systems and intelligent applications.
+- 🔭 Currently sharpening my skills in AI engineering, system design, and backend architecture.
+- 💻 Strong in Python, FastAPI, Go, and Cloud Infrastructure (AWS) - with growing expertise in LLMs, RAG, and AI agent workflows.
+- 🌱 Exploring the future of AI engineering, where backend systems meet intelligent automation.
 - ⚡ Fun fact: When I'm not coding, I'm probably playing games or watching a movie
 
 ### 📫 Reach out to me!
