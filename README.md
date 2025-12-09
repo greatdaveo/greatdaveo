@@ -1,17 +1,16 @@
 # Hello! I am David Olowomeye 👋🏾
 
-- 💡 Backend & AI Engineer passionate about building scalable systems and intelligent applications.
-- 🔭 Currently sharpening my skills in AI engineering, system design, and backend architecture.
-- 💻 Strong in Python, FastAPI, Go, and Cloud Infrastructure (AWS) - with growing expertise in LLMs, RAG, and AI agent workflows.
-- 🌱 Exploring the future of AI engineering, where backend systems meet intelligent automation.
+- 💡 Interested in distributed systems, platform engineering, and large-scale backend architecture
+- 💻 Strong in Python, FastAPI, Golang, JavaScript and Cloud Infrastructure (AWS)
+- ⚙️ Experienced in API design, cloud infrastructure, CI/CD, system reliability
+- 🌱 Open-source contributor to [Buzz](https://github.com/chidiwilliams/buzz)
 - ⚡ Fun fact: When I'm not coding, I'm probably playing games or watching a movie
 
 ### 📫 Reach out to me!
 [![Linkedin Badge](https://img.shields.io/badge/-greatdaveo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/greatdaveo)](https://www.linkedin.com/in/greatdaveo) [![Twitter Badge](https://img.shields.io/badge/-@greatdaveo-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/greatdaveo)](https://twitter.com/greatdaveo)
 
 ---
-
-## My Favorite Projects  
+## My Personal Projects  
 
 ### 🔐 [PrivyCode](https://privycode.com)  
 *A secure platform that allows developers to share read-only access to private GitHub repositories with recruiters or collaborators
