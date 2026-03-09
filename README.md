@@ -3,7 +3,7 @@
 - 💡 Interested in distributed systems, platform engineering, and large-scale backend architecture
 - 💻 Strong in Python, FastAPI, Golang, JavaScript and Cloud Infrastructure (AWS)
 - ⚙️ Experienced in API design, CI/CD, and system reliability
-- 🌱 Open-source contributor to [Buzz](https://github.com/chidiwilliams/buzz) & Personal projects [PrivyCode](https://www.privycode.com), [Gospel Note AI](https://www.gospelnote.app)
+- 🌱 Open-source contributor to [Buzz](https://github.com/chidiwilliams/buzz) & Personal projects [AccurateA](https://www.accuratea.com), [PrivyCode](https://www.privycode.com), [Gospel Note AI](https://www.gospelnote.app)
 - ⚡ Fun fact: When I'm not coding, I'm probably playing games or watching a movie
 
 ### 📫 Reach out to me!
